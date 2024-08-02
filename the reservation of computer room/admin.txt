@@ -1,0 +1,2 @@
+manager 123456
+admit 123456
